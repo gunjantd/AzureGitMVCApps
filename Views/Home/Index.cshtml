@@ -1,6 +1,12 @@
 ﻿<div class="jumbotron">
     <h1>ASP.NET</h1>
-    <p class="lead">Welcome to MVC using GitHub</p>
+    <p class="lead">Welcome to MVC using GitHub - TD Wealth</p>
+    <p class="lead" id="usrname"></p>
+    <script>
+            var usrName = "@HttpContext.Current.User.Identity.Name";
+            document.getElementById("usrname").innerHTML = usrName; 
+</script>
+    
    </div>
 <div class="row">
     <div class="col-md-4">
