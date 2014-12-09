@@ -78,4 +78,4 @@ C:\Users\Redirection\mahesg2\Documents\Visual Studio 2013\Projects\Azure Applica
 C:\Users\Redirection\mahesg2\Documents\Visual Studio 2013\Projects\Azure Applications\GitHubApps\obj\Debug\ApplicationInsights.config
 C:\Users\Redirection\mahesg2\Documents\Visual Studio 2013\Projects\Azure Applications\GitHubApps\obj\Debug\GitHubApps.dll
 C:\Users\Redirection\mahesg2\Documents\Visual Studio 2013\Projects\Azure Applications\GitHubApps\obj\Debug\GitHubApps.pdb
-C:\Users\Redirection\mahesg2\Documents\Visual Studio 2013\Projects\Azure Applications\GitHubApps\obj\Debug\GitHubApps.csprojResolveAssemblyReference.cache
+c:\Users\Redirection\mahesg2\Documents\Visual Studio 2013\Projects\Azure Applications\GitHubApps\obj\Debug\GitHubApps.csprojResolveAssemblyReference.cache
